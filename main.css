@@ -1,13 +1,13 @@
 .song-block {
-  border: 1px dotted grey;
-  padding: 5px;
-  margin: 5px 0;
+    border: 1px dotted grey;
+    padding: 5px;
+    margin: 5px 0;
 }
 
 .artist {
-  background-color: azure;
+    background-color: azure;
 }
 
 .album {
-  background-color: wheat;
+    background-color: wheat;
 }
